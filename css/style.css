@@ -27,7 +27,7 @@ p , span{
 .option-box{
     position: fixed;
     z-index: 11111;
-    background-color: #fff;
+    background-color: #DDD;
     top: 30%;
     right: 0;
     text-align: center;
