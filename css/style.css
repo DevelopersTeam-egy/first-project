@@ -40,12 +40,12 @@ p , span{
     box-shadow: 0px 0px 3px -1px #000;
 }
 .option-box i{
-    color: #777;
+    color: aqua;
     display: block;
     padding: 11px;
 }
 .option-box i:hover{
-    color: #218FE6;
+    color: #1fd665;
 }
 /* end option box */
 /* start navbar */
